@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GenshinOptimizerApplication<genshin-optimizer>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.cosmin.genshin_optimizer.GenshinOptimizerApplication",
+            "projectName": "genshin-optimizer",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
